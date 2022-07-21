@@ -1,0 +1,59 @@
+/home/hbadr/Desktop/minishell/minishal
+/home/hbadr/Desktop/minishell/minishal
+/home/hbadr/Desktop/minishell/minishal
+/home/hbadr/Desktop/minishell/minishal
+/home/hbadr/Desktop/minishell/minishal
+/home/hbadr/Desktop/minishell/minishal
+/home/hbadr/Desktop/minishell/minishal
+total 124
+drwxrwxr-x 4 hbadr hbadr  4096 يونيو  12 19:11 .
+drwxrwxr-x 3 hbadr hbadr  4096 يونيو  12 14:20 ..
+-rw-rw-r-- 1 hbadr hbadr   764 يونيو  12 12:34 comd_existe.c
+-rw-rw-r-- 1 hbadr hbadr   927 يونيو   8 00:02 extract_cmd_and_cd.c
+-rw-rw-r-- 1 hbadr hbadr  2425 يونيو   3 23:55 ft_split.c
+-rw-rw-r-- 1 hbadr hbadr    77 يونيو   8 19:22 h.c
+drwxrwxr-x 2 hbadr hbadr  4096 يونيو   3 23:30 header
+-rw-rw-r-- 1 hbadr hbadr   524 يونيو   8 22:34 if_absolute_path.c
+drwxrwxr-x 2 hbadr hbadr  4096 يونيو   7 22:16 libft
+-rw-rw-r-- 1 hbadr hbadr    30 يونيو   6 16:44 libft.c
+-rw-rw-r-- 1 hbadr hbadr  1971 يونيو  12 17:16 main.c
+-rw-rw-r-- 1 hbadr hbadr   598 يونيو   7 21:53 makefile
+-rw-rw-r-- 1 hbadr hbadr  1760 يونيو   8 21:30 mutiline_commands.c
+-rwxrwxr-x 1 hbadr hbadr 58720 يونيو   3 22:53 test_minishell
+-rw-rw-r-- 1 hbadr hbadr  1068 يونيو   6 16:30 to_path.c
+-rw-rw-r-- 1 hbadr hbadr  1216 يونيو  12 17:46 ttt.c
+-rw-r--r-- 1 hbadr hbadr   273 يونيو  12 19:12 t.txt
+total 124
+drwxrwxr-x 4 hbadr hbadr  4096 يونيو  12 19:11 .
+drwxrwxr-x 3 hbadr hbadr  4096 يونيو  12 14:20 ..
+-rw-rw-r-- 1 hbadr hbadr   764 يونيو  12 12:34 comd_existe.c
+-rw-rw-r-- 1 hbadr hbadr   927 يونيو   8 00:02 extract_cmd_and_cd.c
+-rw-rw-r-- 1 hbadr hbadr  2425 يونيو   3 23:55 ft_split.c
+-rw-rw-r-- 1 hbadr hbadr    77 يونيو   8 19:22 h.c
+drwxrwxr-x 2 hbadr hbadr  4096 يونيو   3 23:30 header
+-rw-rw-r-- 1 hbadr hbadr   524 يونيو   8 22:34 if_absolute_path.c
+drwxrwxr-x 2 hbadr hbadr  4096 يونيو   7 22:16 libft
+-rw-rw-r-- 1 hbadr hbadr    30 يونيو   6 16:44 libft.c
+-rw-rw-r-- 1 hbadr hbadr  1971 يونيو  12 17:16 main.c
+-rw-rw-r-- 1 hbadr hbadr   598 يونيو   7 21:53 makefile
+-rw-rw-r-- 1 hbadr hbadr  1760 يونيو   8 21:30 mutiline_commands.c
+-rwxrwxr-x 1 hbadr hbadr 58720 يونيو   3 22:53 test_minishell
+-rw-rw-r-- 1 hbadr hbadr  1068 يونيو   6 16:30 to_path.c
+-rw-rw-r-- 1 hbadr hbadr  1216 يونيو  12 17:46 ttt.c
+-rw-r--r-- 1 hbadr hbadr  1335 يونيو  12 19:12 t.txt
+total 116
+-rw-rw-r-- 1 hbadr hbadr   764 يونيو  12 12:34 comd_existe.c
+-rw-rw-r-- 1 hbadr hbadr   927 يونيو   8 00:02 extract_cmd_and_cd.c
+-rw-rw-r-- 1 hbadr hbadr  2425 يونيو   3 23:55 ft_split.c
+-rw-rw-r-- 1 hbadr hbadr    77 يونيو   8 19:22 h.c
+drwxrwxr-x 2 hbadr hbadr  4096 يونيو   3 23:30 header
+-rw-rw-r-- 1 hbadr hbadr   524 يونيو   8 22:34 if_absolute_path.c
+drwxrwxr-x 2 hbadr hbadr  4096 يونيو   7 22:16 libft
+-rw-rw-r-- 1 hbadr hbadr    30 يونيو   6 16:44 libft.c
+-rw-rw-r-- 1 hbadr hbadr  1971 يونيو  12 17:16 main.c
+-rw-rw-r-- 1 hbadr hbadr   598 يونيو   7 21:53 makefile
+-rw-rw-r-- 1 hbadr hbadr  1760 يونيو   8 21:30 mutiline_commands.c
+-rwxrwxr-x 1 hbadr hbadr 58720 يونيو   3 22:53 test_minishell
+-rw-rw-r-- 1 hbadr hbadr  1068 يونيو   6 16:30 to_path.c
+-rw-rw-r-- 1 hbadr hbadr  1216 يونيو  12 17:46 ttt.c
+-rw-r--r-- 1 hbadr hbadr  2397 يونيو  12 19:13 t.txt
